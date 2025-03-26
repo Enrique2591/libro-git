@@ -1,4 +1,0 @@
-nombre se usuario
-correo electrónico
-nombre del usuario
-correo
